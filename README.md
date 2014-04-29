@@ -1,5 +1,5 @@
-#iiitd_homesite: personal site files repository
-### http://home.iiitd.edu.in/~mridul12061
+##iiitd_homesite: personal site files repository
+###http://home.iiitd.edu.in/~mridul12061
 ==============
 
 Personal site used for me used in the IIITD servers.
